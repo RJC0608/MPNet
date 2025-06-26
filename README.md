@@ -1,6 +1,6 @@
 # MPNet
-Release the code later.
+We provide the prediction maps of our FSEL model in camouflaged object detection.
 
 ![](https)
 
-MPNet-Camouflaged Object Detection (COD)链接: https://pan.baidu.com/s/1cJSfzD-izhIX946K5b1mkg 提取码: HAUT
+MPNet's prediction maps --  链接: https://pan.baidu.com/s/1cJSfzD-izhIX946K5b1mkg 提取码: HAUT
